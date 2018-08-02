@@ -11,7 +11,7 @@ require_once('form_process.php');
 $form = array(
 	'subject' => 'Contact Form Submission',
 	'heading' => 'New Form Submission',
-	'success_redirect' => 'contact-thank-you.html',
+	'success_redirect' => 'thank-you.html',
 	'resources' => array(
 		'checkbox_checked' => 'Checked',
 		'checkbox_unchecked' => 'Unchecked',

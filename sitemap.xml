@@ -18,13 +18,17 @@
     </image:image>
   </url>
   <url>
-    <loc>http://zippywebsites.com/pricing.html</loc>
+    <loc>http://zippywebsites.com/contact.html</loc>
     <lastmod>2018-08-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://zippywebsites.com/images/layer%201.png</image:loc>
       <image:caption>Link to Zippy Websites home</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://zippywebsites.com/images/contact-banner.jpg</image:loc>
+      <image:caption>Link to our contact page</image:caption>
     </image:image>
   </url>
   <url>
@@ -38,34 +42,6 @@
     </image:image>
     <image:image>
       <image:loc>http://zippywebsites.com/images/featured.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://zippywebsites.com/contact.html</loc>
-    <lastmod>2018-08-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://zippywebsites.com/images/layer%201.png</image:loc>
-      <image:caption>Link to Zippy Websites home</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>http://zippywebsites.com/images/layer%201105x95.png</image:loc>
-      <image:caption>Link to Zippy Websites home</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>http://zippywebsites.com/images/contact-banner.jpg</image:loc>
-      <image:caption>Link to our contact page</image:caption>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://zippywebsites.com/return-policy.html</loc>
-    <lastmod>2018-08-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://zippywebsites.com/images/layer%201.png</image:loc>
-      <image:caption>Link to Zippy Websites home</image:caption>
     </image:image>
   </url>
   <url>
@@ -128,7 +104,17 @@
     </image:image>
   </url>
   <url>
-    <loc>http://zippywebsites.com/contact-thank-you.html</loc>
+    <loc>http://zippywebsites.com/pricing.html</loc>
+    <lastmod>2018-08-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://zippywebsites.com/images/layer%201.png</image:loc>
+      <image:caption>Link to Zippy Websites home</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://zippywebsites.com/return-policy.html</loc>
     <lastmod>2018-08-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
